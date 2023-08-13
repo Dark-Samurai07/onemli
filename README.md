@@ -1,4 +1,4 @@
-# önemli
+# [Dolandırıcılığı önleme]
 
 Steam API Anahtar Dolandırıcılığı (ŞİMDİ EN TEHLİKELİ): Bunları okuduğunuzdan %100 emin olun: https://steamcommunity.com/sharedfiles/filedetails/?id=1408053055 https://steamcommunity.com/sharedfiles/filedetails/?id=1815917787 https://blog.swap.gg/csgo-apikeyscam/
 
