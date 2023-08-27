@@ -1,6 +1,6 @@
 # [Dolandırıcılığı önleme]
 
-Steam API Anahtar Dolandırıcılığı (ŞİMDİ EN TEHLİKELİ): Bunları okuduğunuzdan %100 emin olun: https://steamcommunity.com/sharedfiles/filedetails/?id=1408053055 https://steamcommunity.com/sharedfiles/filedetails/?id=1815917787 https://blog.swap.gg/csgo-apikeyscam/
+Steam API Anahtar Dolandırıcılığı (ŞİMDİ EN TEHLİKELİ): Bunları okuduğunuzdan %100 emin olun: https://steamcommunity.com/sharedfiles/filedetails/?id=1408053055 https://steamcommunity.com/sharedfiles/filedetails/?id=1815917787 -
 
 
 Discord Dolandırıcılık Botları: (DISCORD'DA EN ÇOK KULLANILANLARDAN BİRİ) Dolandırıcılık botları bir sunucuya baskın yapar ve size bir bağlantı içeren discord'da bir mesaj gönderir ve size bir eşantiyon, kripto, jackpot vb. Kazandığınızı ve sadece giriş yapmanız gerektiğini söyler. Bu bağlantılara asla tıklamayın!
